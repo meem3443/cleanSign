@@ -13,7 +13,7 @@ import {
 
 export function ResultPage() {
   const { isDark } = useThemeStore();
-  const TOTAL_POTENTIAL_LOSS = 10;
+  const TOTAL_POTENTIAL_LOSS = 70000000;
 
   return (
     <div className="animate-fade-in space-y-8">
